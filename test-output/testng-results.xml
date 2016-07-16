@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Presence of logo is verified]]>
+    </line>
+    <line>
+      <![CDATA[Headers for different categories are verified]]>
+    </line>
+    <line>
+      <![CDATA[Presence of About US Section is veified]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65508" started-at="2016-07-13T09:42:34Z" finished-at="2016-07-13T09:43:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65508" started-at="2016-07-13T09:42:34Z" finished-at="2016-07-13T09:43:40Z">
+      <class name="TestExecution.TestSuite1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestExecution.TestSuite1@1e88b3c]" name="beforeTest" is-config="true" duration-ms="57762" started-at="2016-07-13T15:12:34Z" finished-at="2016-07-13T15:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestExecution.TestSuite1@1e88b3c]" name="f" duration-ms="4305" started-at="2016-07-13T15:13:32Z" finished-at="2016-07-13T15:13:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Presence of logo is verified]]>
+            </line>
+            <line>
+              <![CDATA[Headers for different categories are verified]]>
+            </line>
+            <line>
+              <![CDATA[Presence of About US Section is veified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestExecution.TestSuite1@1e88b3c]" name="afterTest" is-config="true" duration-ms="3408" started-at="2016-07-13T15:13:36Z" finished-at="2016-07-13T15:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestExecution.TestSuite1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
